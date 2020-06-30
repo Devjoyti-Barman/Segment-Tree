@@ -1,3 +1,10 @@
+/*
+
+https://hack.codingblocks.com/app/practice/2/302/problem
+*/
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define w(t) int t;cin>>t;while(t--)
